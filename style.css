@@ -1,0 +1,100 @@
+
+.brand-logo{
+  font-family: "Comforter Brush", monospace;
+}
+.aboutme{
+  font-family: "Kalam", monospace;
+}
+.background_1 {
+  background-color: #42a5f5;
+}
+.container{
+  margin-top: 5%;
+}
+
+p.indent{
+  text-indent: 30px;
+  font-size: 20px;
+}
+
+a.hover{
+  background-color:black;
+}
+
+/* ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+ 
+#button {
+    display: flex;
+    size:30%;
+    justify-content: center;
+  }
+
+button{
+    background-color: red;
+    margin-top:10%;
+    margin-left:10%;
+  }
+.inner {
+    width: 200px;
+    height:200px;
+    box-sizing: border-box;
+  }
+.home_photo{
+    display:flex;
+    margin:auto;
+    margin-left:50%;
+    margin-top: 5%;
+  }
+.home_photo img {
+    border-radius: 50%;
+  }
+  
+.banner {
+    float: left;
+    border-right: 2px solid #bbb;
+  }
+  
+.banner a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+.banner a:hover {
+    background-color: #d2b48c;
+  }
+  
+h1 {
+    font-family: cursive;
+    font-size:30px;
+    position:absolute;
+    top:55%;
+    left:52%;
+    margin-top: -100px;
+    margin-left: -100px;
+    color: blue;
+  }
+  
+h2 {
+    font-family: cursive;
+    font-size:18px;
+    position:absolute;
+    top:62%;
+    left:53%;
+    margin-top: -100px;
+    margin-left: -100px;
+    color: black;
+  }
+body {
+    background-color:coral;
+  }
+
+   */
